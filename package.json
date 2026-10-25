@@ -1,0 +1,10 @@
+{
+  "name": "adams-auth",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "GitHub Pages account and beta access portal with Supabase Auth",
+  "scripts": {
+    "serve": "python -m http.server 8080"
+  }
+}
